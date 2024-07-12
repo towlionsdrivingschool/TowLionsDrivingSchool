@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.703fe8dd.css",
-    "main.js": "/static/js/main.a0a6387f.js",
+    "main.css": "/static/css/main.54f91e95.css",
+    "main.js": "/static/js/main.59f5a286.js",
     "static/media/pattern.jpeg": "/static/media/pattern.61381d7742da93178a02.jpeg",
     "static/media/Carimage.jpg": "/static/media/Carimage.74ca5ed4f5c3818d704d.jpg",
     "static/media/groundImage.jpg": "/static/media/groundImage.c3e2810b7d0458a056a5.jpg",
@@ -16,11 +16,11 @@
     "static/media/app_store.png": "/static/media/app_store.8a5164ca9f62a2d5c172.png",
     "static/media/play_store.png": "/static/media/play_store.1be3feade6ae12c67801.png",
     "index.html": "/index.html",
-    "main.703fe8dd.css.map": "/static/css/main.703fe8dd.css.map",
-    "main.a0a6387f.js.map": "/static/js/main.a0a6387f.js.map"
+    "main.54f91e95.css.map": "/static/css/main.54f91e95.css.map",
+    "main.59f5a286.js.map": "/static/js/main.59f5a286.js.map"
   },
   "entrypoints": [
-    "static/css/main.703fe8dd.css",
-    "static/js/main.a0a6387f.js"
+    "static/css/main.54f91e95.css",
+    "static/js/main.59f5a286.js"
   ]
 }
