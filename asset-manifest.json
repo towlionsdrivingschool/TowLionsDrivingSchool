@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TowLionsDrivingSchool/static/css/main.703fe8dd.css",
+    "main.js": "/TowLionsDrivingSchool/static/js/main.080cb70a.js",
+    "static/media/pattern.jpeg": "/TowLionsDrivingSchool/static/media/pattern.61381d7742da93178a02.jpeg",
+    "static/media/Carimage.jpg": "/TowLionsDrivingSchool/static/media/Carimage.74ca5ed4f5c3818d704d.jpg",
+    "static/media/groundImage.jpg": "/TowLionsDrivingSchool/static/media/groundImage.c3e2810b7d0458a056a5.jpg",
+    "static/media/banner-car.png": "/TowLionsDrivingSchool/static/media/banner-car.71713c7e8e4507fdb7be.png",
+    "static/media/car1.png": "/TowLionsDrivingSchool/static/media/car1.0eb1f0c016da53e2d4ce.png",
+    "static/media/Logo.png": "/TowLionsDrivingSchool/static/media/Logo.bad1ab8fb59274407639.png",
+    "static/media/SchoolCar.jpg": "/TowLionsDrivingSchool/static/media/SchoolCar.3e292779e32bcc5c567c.jpg",
+    "static/media/car.png": "/TowLionsDrivingSchool/static/media/car.027ce53f5c4f70c4a983.png",
+    "static/media/office.jpg": "/TowLionsDrivingSchool/static/media/office.2400bcbda56fec5a0719.jpg",
+    "static/media/ofiiceImage1.jpg": "/TowLionsDrivingSchool/static/media/ofiiceImage1.b351fa3c88ebc96d6107.jpg",
+    "static/media/officeimage.jpg": "/TowLionsDrivingSchool/static/media/officeimage.64f667ffbf5622d4cae3.jpg",
+    "static/media/app_store.png": "/TowLionsDrivingSchool/static/media/app_store.8a5164ca9f62a2d5c172.png",
+    "static/media/play_store.png": "/TowLionsDrivingSchool/static/media/play_store.1be3feade6ae12c67801.png",
+    "index.html": "/TowLionsDrivingSchool/index.html",
+    "main.703fe8dd.css.map": "/TowLionsDrivingSchool/static/css/main.703fe8dd.css.map",
+    "main.080cb70a.js.map": "/TowLionsDrivingSchool/static/js/main.080cb70a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.703fe8dd.css",
+    "static/js/main.080cb70a.js"
+  ]
+}
