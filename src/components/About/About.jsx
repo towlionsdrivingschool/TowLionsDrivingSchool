@@ -9,7 +9,7 @@ const About = () => {
           <div data-aos="slide-right" data-aos-duration="1500">
             <img
               src={CarPng}
-              alt=""
+              alt="two lions driving school"
               className="sm:scale-125 sm:-translate-x-11 max-h-[300px] drop-shadow-[2px_10px_6px_rgba(0,0,0,0.50)]"
             />
           </div>

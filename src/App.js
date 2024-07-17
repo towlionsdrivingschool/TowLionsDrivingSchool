@@ -12,7 +12,8 @@ import AppStoreBanner from "./components/AppStoreBanner/AppStoreBanner";
 import Contact from "./components/Contact/Contact";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Footer from "./components/Footer/Footer";
-import Experience from "./components/Experience/Experience";
+import Founder from "./components/Experience/Founder";
+
 function App() {
   // dark mode start
   const [theme, setTheme] = useState(
@@ -52,7 +53,8 @@ function App() {
       <Testimonial />
       <CarList />
       <AppStoreBanner />
-      {/* <Experience /> */}
+
+      <Founder />
       <Footer />
     </div>
   );

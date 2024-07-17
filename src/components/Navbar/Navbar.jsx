@@ -43,14 +43,18 @@ const Navbar = ({ theme, setTheme }) => {
   };
   return (
     <div
-      className="fixed  z-10 shadow-md w-full	bg-slate-200 dark:bg-black dark:text-white duration-300
+      className="fixed  z-10 shadow-md w-full	bg-white dark:bg-black dark:text-white duration-300
     "
     >
       <div className="container py-2 md:py-0  		">
         <div className="flex justify-between items-center">
           <div>
             <div className="flex flex-shrink-0 items-center">
-              <img alt="Your Company" src={Logo} className="h-16 w-auto" />
+              <img
+                alt="two lions driving school"
+                src={Logo}
+                className="h-16 w-auto"
+              />
             </div>
           </div>
           <nav className="hidden md:block">

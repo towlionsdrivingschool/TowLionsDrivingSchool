@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-scroll";
 import {
   FaFacebook,
   FaInstagram,
@@ -10,30 +11,30 @@ import {
 const FooterLinks = [
   {
     title: "Home",
-    link: "/#",
+    link: "home",
   },
   {
     title: "About",
-    link: "/#about",
+    link: "about",
   },
   {
-    title: "Contact",
-    link: "/#contact",
+    title: "Our Services",
+    link: "our Services",
   },
   {
     title: "Blog",
-    link: "/#blog",
+    link: "contact us",
   },
 ];
 const Footer = () => {
   return (
     <div className="bg-gray-100 dark:bg-dark mt-14 rounded-t-3xl">
       <section className="container">
-        <div className=" grid md:grid-cols-3 py-">
+        <div className=" grid md:grid-cols-3 py-4">
           {/* company Details */}
           <div className=" py-8 px-4">
             <h1 className="sm:text-2xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3 font-serif">
-            Two Lions Driving School
+              Two Lions Driving School
             </h1>
             {/* <p className="text-sm">
               Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
@@ -42,7 +43,7 @@ const Footer = () => {
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>East Kunnumma, Kunnumma, Kerala 688504</p>
+              <p> Kunnumma, Kunnumma, Alappuzha, Kerala 688506</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
@@ -63,8 +64,8 @@ const Footer = () => {
           </div>
           {/* Links */}
           <div className="grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10 ">
-          <div className=""></div>
-          <div className=""></div>
+            <div className=""></div>
+            <div className=""></div>
             <div className="">
               <div className="py-8 px-4 ">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
@@ -80,8 +81,6 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-            
-            
           </div>
         </div>
         <span class="block  text-gray-500 sm:text-center dark:text-gray-400">

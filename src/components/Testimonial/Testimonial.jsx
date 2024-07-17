@@ -1,17 +1,18 @@
 import React from "react";
-
+import Adithyan from "../../assets/Adithyan.png"
 const testimonialData = [
   {
-    name: "Dilshad",
-    image: "",
+    name: "Adithyan Pb",
+    image: Adithyan,
     description:
       "Learning to drive at Tow Lion driving school was an excellent experience. The instructors were patient and knowledgeable. I feel confident and prepared to drive on my own..",
     aosDelay: "0",
   },
   {
-    name: "Satya",
+    name: "Jibin",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description:
+      "Two Lions Driving School I made learning to drive a . The instructors were patient and knowledgeable. Highly recommend.",
     aosDelay: "300",
   },
   {
@@ -35,10 +36,6 @@ const Testimonial = () => {
             >
               What Our Clients Say About Us
             </p>
-            <p data-aos="fade-up" className="text-center sm:px-44">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Perferendis iure consectetur tempora amet.
-            </p>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-black dark:text-white">
@@ -51,8 +48,8 @@ const Testimonial = () => {
               >
                 <div className="grid place-items-center ">
                   <img
-                    src="https://picsum.photos/200"
-                    alt=""
+                    src={skill.image}
+                   alt="two lions driving school"
                     className="rounded-full w-20 h-20"
                   />
                 </div>
