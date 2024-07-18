@@ -4,7 +4,7 @@ import car1 from "../../assets/officeimage.jpg";
 import car2 from "../../assets/office.jpg";
 import car3 from "../../assets/groundImage.jpg";
 import car4 from "../../assets/Carimage.jpg";
-import car5 from "../../assets/SchoolCar.jpg";
+// import car5 from "../../assets/SchoolCar.jpg";
 
 import car6 from "../../assets/ofiiceImage1.jpg";
 const CarList = () => {
@@ -59,7 +59,7 @@ const CarList = () => {
                 />
               </div>
             </div>
-            <div class="flex w-1/3 flex-wrap">
+            {/* <div class="flex w-1/3 flex-wrap">
               <div class="w-full p-1 md:p-2">
                 <img
                   alt="gallery"
@@ -67,7 +67,7 @@ const CarList = () => {
                   src={car5}
                 />
               </div>
-            </div>
+            </div> */}
             <div class="flex w-1/3 flex-wrap">
               <div class="w-full p-1 md:p-2">
                 <img
