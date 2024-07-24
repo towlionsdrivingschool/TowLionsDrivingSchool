@@ -43,7 +43,7 @@ const Footer = () => {
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p> Kunnumma, Kunnumma, Alappuzha, Kerala 688506</p>
+              <p> Kunnumma, Kavalam, Alappuzha, Kerala 688506</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />

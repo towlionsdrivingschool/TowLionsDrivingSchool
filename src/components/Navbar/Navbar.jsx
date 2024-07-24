@@ -4,6 +4,7 @@ import { HiMenuAlt3, HiMenuAlt1 } from "react-icons/hi";
 import ResponsiveMenu from "./ResponsiveMenu";
 import Logo from "../../assets/Logo.png";
 import { Link } from "react-scroll";
+import { GrDomain } from "react-icons/gr";
 
 export const Navlinks = [
   {

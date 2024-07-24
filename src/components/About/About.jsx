@@ -1,5 +1,5 @@
 import React from "react";
-import CarPng from "../../assets/car1.png";
+import CarPng from "../../assets/about.jpg";
 
 const About = () => {
   return (
@@ -10,7 +10,7 @@ const About = () => {
             <img
               src={CarPng}
               alt="two lions driving school"
-              className="sm:scale-125 sm:-translate-x-11 max-h-[300px] drop-shadow-[2px_10px_6px_rgba(0,0,0,0.50)]"
+              className="sm:scale-125 sm:-translate-x-11 rounded-full max-h-[300px] drop-shadow-[2px_10px_6px_rgba(0,0,0,0.50)]"
             />
           </div>
           <div>
