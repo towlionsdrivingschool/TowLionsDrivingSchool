@@ -21,10 +21,7 @@ const FooterLinks = [
     title: "Our Services",
     link: "our Services",
   },
-  {
-    title: "Blog",
-    link: "contact us",
-  },
+ 
 ];
 const Footer = () => {
   return (
@@ -50,17 +47,6 @@ const Footer = () => {
               <p>+91 8921905365</p>
             </div>
             {/* Social Handle */}
-            <div className="flex items-center gap-3 mt-6">
-              <a href="#">
-                <FaInstagram className="text-2xl hover:text-primary duration-300" />
-              </a>
-              <a href="#">
-                <FaFacebook className="text-2xl hover:text-primary duration-300" />
-              </a>
-              <a href="#">
-                <FaLinkedin className="text-2xl hover:text-primary duration-300" />
-              </a>
-            </div>
           </div>
           {/* Links */}
           <div className="grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10 ">

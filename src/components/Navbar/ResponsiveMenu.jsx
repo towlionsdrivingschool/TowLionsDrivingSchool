@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 
 import { Navlinks } from "./Navbar";
 
-const ResponsiveMenu = ({ showMenu, }) => {
+const ResponsiveMenu = ({ showMenu, setShowMenu }) => {
   console.log("showMenu", showMenu);
   return (
     <div
@@ -16,22 +16,19 @@ const ResponsiveMenu = ({ showMenu, }) => {
         <nav className="mt-12">
           <ul className="space-y-4 text-xl">
             {Navlinks.map((data) => (
-              <li   >
+              <li>
                 <Link
-              
                   className="mb-5 inline-block cursor-pointer"
                   to={data.link}
                   smooth={true}
                   offset={0}
                   duration={500}
+                  onClick={() => setShowMenu(!showMenu)}
                 >
                   {data.name}
-                 
                 </Link>
-                
               </li>
             ))}
-           
           </ul>
         </nav>
       </div>
