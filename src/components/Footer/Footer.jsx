@@ -74,7 +74,7 @@ const Footer = () => {
           <a href="https://flowbite.com/" class="hover:underline">
             Tow Lion DrivingSchool
           </a>
-          . All Rights Reserved.
+           All Rights Reserved.
         </span>
       </section>
     </div>
