@@ -9,7 +9,7 @@ import car4 from "../../assets/Carimage.jpg";
 import car6 from "../../assets/ofiiceImage1.jpg";
 const CarList = () => {
   return (
-    <div className="pb-24">
+    <div>
       <div className="container " id="gallery">
         <div>
           <h1
@@ -21,70 +21,59 @@ const CarList = () => {
         </div>
 
         {/* Car listing */}
-        <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12 ">
-          <div class="-m-1 flex flex-wrap md:-m-2 ">
-            <div class="flex w-1/3 flex-wrap">
-              <div class="w-full p-1 md:p-2">
-                <img
-                  alt="gallery"
-                  class="block h-full w-full rounded-lg object-cover object-center"
-                  src={car1}
-                />
+        {/* <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-12 "></div> */}
+        <section class="text-gray-400mt-20 body-font">
+          <div class="container px-5 py-24 mx-auto">
+            <div class="flex flex-wrap -m-4">
+              <div class="lg:w-1/3 sm:w-1/2 p-4">
+                <div class="flex relative">
+                  <img
+                    alt="gallery"
+                    class="object-cover rounded-2xl  hover:scale-110 transition duration-300 ease-in-out"
+                    src={car1}
+                  />
+                </div>
               </div>
-            </div>
-            <div class="flex w-1/3 flex-wrap">
-              <div class="w-full p-1 md:p-2">
-                <img
-                  alt="gallery"
-                  class="block h-full w-full rounded-lg object-cover object-center"
-                  src={car2}
-                />
+              <div class="lg:w-1/3 sm:w-1/2 p-4">
+                <div class="flex relative">
+                  <img
+                    alt="gallery"
+                    class="object-cover rounded-2xl  hover:scale-110 transition duration-300 ease-in-out"
+                    src={car2}
+                  />
+                </div>
               </div>
-            </div>
-            <div class="flex w-1/3 flex-wrap">
-              <div class="w-full p-1 md:p-2">
-                <img
-                  alt="gallery"
-                  class="block h-full w-full rounded-lg object-cover object-center"
-                  src={car3}
-                />
+
+              <div class="lg:w-1/3 sm:w-1/2 p-4">
+                <div class="flex relative">
+                  <img
+                    alt="gallery"
+                    class="object-cover rounded-2xl  hover:scale-110 transition duration-300 ease-in-out"
+                    src={car6}
+                  />
+                </div>
               </div>
-            </div>
-            <div class="flex w-1/3 flex-wrap">
-              <div class="w-full p-1 md:p-2">
-                <img
-                  alt="gallery"
-                  class="block h-full w-full rounded-lg object-cover object-center"
-                  src={car4}
-                />
+              <div class="lg:w-1/3 sm:w-1/2 p-4">
+                <div class="flex relative">
+                  <img
+                    alt="gallery"
+                    class="object-cover rounded-2xl h-[330px]  hover:scale-110 transition duration-300 ease-in-out"
+                    src={car3}
+                  />
+                </div>
               </div>
-            </div>
-            {/* <div class="flex w-1/3 flex-wrap">
-              <div class="w-full p-1 md:p-2">
-                <img
-                  alt="gallery"
-                  class="block h-full w-full rounded-lg object-cover object-center"
-                  src={car5}
-                />
-              </div>
-            </div> */}
-            <div class="flex w-1/3 flex-wrap">
-              <div class="w-full p-1 md:p-2">
-                <img
-                  alt="gallery"
-                  class="block h-full w-full rounded-lg object-cover object-center"
-                  src={car6}
-                />
+              <div class="lg:w-1/3 sm:w-1/2 p-4">
+                <div class="flex relative">
+                  <img
+                    alt="gallery"
+                    class="object-cover rounded-2xl h-[330px]  hover:scale-110 transition duration-300 ease-in-out"
+                    src={car4}
+                  />
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        {/* End of car listing */}
-        <div className="grid place-items-center mt-8">
-          <button data-aos="fade-up" className="button-outline">
-            Get Started
-          </button>
-        </div>
+        </section>
       </div>
     </div>
   );

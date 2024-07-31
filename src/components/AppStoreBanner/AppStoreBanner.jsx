@@ -29,7 +29,7 @@ const AppStoreBanner = () => {
     }
   };
   return (
-    <div className="dark:bg-black  dark:text-white py-14">
+    <div className="dark:bg-black  dark:text-white ">
       <div classNameName="container" id="contact us">
         <div>
           <h1

@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
         <span class="block  text-gray-500 sm:text-center dark:text-gray-400">
           © 2024{" "}
-          <a href="https://flowbite.com/" class="hover:underline">
+          <a  class="hover:underline">
             Tow Lion DrivingSchool
           </a>
            All Rights Reserved.
