@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.06039b6a.css",
-    "main.js": "/static/js/main.44e3027f.js",
+    "main.js": "/static/js/main.d3a34a26.js",
     "static/media/Adithyan.png": "/static/media/Adithyan.241aa862a6786ea2c227.png",
     "static/media/pattern.jpeg": "/static/media/pattern.61381d7742da93178a02.jpeg",
     "static/media/Carimage.jpg": "/static/media/Carimage.74ca5ed4f5c3818d704d.jpg",
@@ -20,10 +20,10 @@
     "static/media/play_store.png": "/static/media/play_store.1be3feade6ae12c67801.png",
     "index.html": "/index.html",
     "main.06039b6a.css.map": "/static/css/main.06039b6a.css.map",
-    "main.44e3027f.js.map": "/static/js/main.44e3027f.js.map"
+    "main.d3a34a26.js.map": "/static/js/main.d3a34a26.js.map"
   },
   "entrypoints": [
     "static/css/main.06039b6a.css",
-    "static/js/main.44e3027f.js"
+    "static/js/main.d3a34a26.js"
   ]
 }
