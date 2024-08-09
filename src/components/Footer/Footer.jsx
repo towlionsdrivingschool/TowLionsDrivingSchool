@@ -78,7 +78,7 @@ const Footer = () => {
           </div>
         </div>
         <span class="block  text-gray-500 sm:text-center dark:text-gray-400">
-          © 2024 <a class="hover:underline">Tow Lion DrivingSchool</a>
+          © 2024 <a class="hover:underline">Twolions Driving School/</a>
           All Rights Reserved.
         </span>
       </section>
