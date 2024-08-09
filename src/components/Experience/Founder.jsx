@@ -2,6 +2,7 @@ import React from "react";
 import founder from "../../assets/about.jpg";
 import founderMain from "../../assets/foundermain.jpg";
 import Instuctor from "../../assets/instructotr.jpg";
+import Trainer from "../../assets/ashan.jpg";
 const Founder = () => {
   return (
     <div className="dark:bg-black  dark:text-white py-14">
@@ -62,6 +63,21 @@ const Founder = () => {
                   <h4 class="text-2xl">Anu M Pulluvellil</h4>
                   <span class="block text-sm text-gray-500">Instructor</span>
                 </div>
+              </div>
+            </div>
+
+            <div class="space-y-4 text-center mt-8">
+              <img
+                class="w-64 h-64 mx-auto object-cover rounded-xl md:w-40 md:h-40 lg:w-64 lg:h-64 hover:scale-110 transition duration-300 ease-in-out"
+                src={Trainer}
+                alt="two lions driving school"
+                loading="lazy"
+                width="1000"
+                height="667"
+              />
+              <div>
+                <h4 class="text-2xl">Anu </h4>
+                <span class="block text-sm text-gray-500">Trainer</span>
               </div>
             </div>
           </div>

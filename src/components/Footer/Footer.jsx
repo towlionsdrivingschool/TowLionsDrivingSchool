@@ -21,7 +21,6 @@ const FooterLinks = [
     title: "Our Services",
     link: "our Services",
   },
- 
 ];
 const Footer = () => {
   return (
@@ -47,6 +46,15 @@ const Footer = () => {
               <p>+91 8921905365</p>
             </div>
             {/* Social Handle */}
+
+            <div className="flex items-center gap-3 mt-6">
+              <a href="">
+                <FaInstagram className="text-3xl hover:text-primary duration-300" />
+              </a>
+              <a href="https://www.facebook.com/share/uA1VuD8JGULbvrSt/?mibextid=qi2Omg">
+                <FaFacebook className="text-3xl hover:text-primary duration-300" />
+              </a>
+            </div>
           </div>
           {/* Links */}
           <div className="grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10 ">
@@ -70,11 +78,8 @@ const Footer = () => {
           </div>
         </div>
         <span class="block  text-gray-500 sm:text-center dark:text-gray-400">
-          © 2024{" "}
-          <a  class="hover:underline">
-            Tow Lion DrivingSchool
-          </a>
-           All Rights Reserved.
+          © 2024 <a class="hover:underline">Tow Lion DrivingSchool</a>
+          All Rights Reserved.
         </span>
       </section>
     </div>
