@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdc42c35.css",
-    "main.js": "/static/js/main.fd961f67.js",
+    "main.css": "/static/css/main.06039b6a.css",
+    "main.js": "/static/js/main.44e3027f.js",
     "static/media/Adithyan.png": "/static/media/Adithyan.241aa862a6786ea2c227.png",
     "static/media/pattern.jpeg": "/static/media/pattern.61381d7742da93178a02.jpeg",
     "static/media/Carimage.jpg": "/static/media/Carimage.74ca5ed4f5c3818d704d.jpg",
@@ -10,6 +10,7 @@
     "static/media/Logo.png": "/static/media/Logo.bad1ab8fb59274407639.png",
     "static/media/instructotr.jpg": "/static/media/instructotr.39950f3ccd67854e98c3.jpg",
     "static/media/about.jpg": "/static/media/about.4027ed8c473fcc9c33bb.jpg",
+    "static/media/ashan.jpg": "/static/media/ashan.610d21baed9fae05a3c9.jpg",
     "static/media/foundermain.jpg": "/static/media/foundermain.6bdf18c40290adbbbe15.jpg",
     "static/media/car.png": "/static/media/car.027ce53f5c4f70c4a983.png",
     "static/media/office.jpg": "/static/media/office.2400bcbda56fec5a0719.jpg",
@@ -18,11 +19,11 @@
     "static/media/app_store.png": "/static/media/app_store.8a5164ca9f62a2d5c172.png",
     "static/media/play_store.png": "/static/media/play_store.1be3feade6ae12c67801.png",
     "index.html": "/index.html",
-    "main.bdc42c35.css.map": "/static/css/main.bdc42c35.css.map",
-    "main.fd961f67.js.map": "/static/js/main.fd961f67.js.map"
+    "main.06039b6a.css.map": "/static/css/main.06039b6a.css.map",
+    "main.44e3027f.js.map": "/static/js/main.44e3027f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdc42c35.css",
-    "static/js/main.fd961f67.js"
+    "static/css/main.06039b6a.css",
+    "static/js/main.44e3027f.js"
   ]
 }
