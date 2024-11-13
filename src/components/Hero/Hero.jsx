@@ -35,10 +35,7 @@ const Hero = ({ theme }) => {
               Two Lions Driving School
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
-              !We are dedicated to providing top-notch driving education with a
-              focus on safety, skill, and confidence. Whether you're a beginner
-              or looking to brush up on your skills, we have the right course
-              for you.
+              Best Driving school in Kuttanad
             </p>
             <button
               data-aos="fade-up"
@@ -53,7 +50,6 @@ const Hero = ({ theme }) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-               
                 Book Now
               </a>
             </button>
