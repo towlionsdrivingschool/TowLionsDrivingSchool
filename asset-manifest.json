@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fa60cb3b.css",
-    "main.js": "/static/js/main.71bb9179.js",
+    "main.js": "/static/js/main.d43f36b4.js",
     "static/media/video1.mp4": "/static/media/video1.8a54c02efc39e75ad04a.mp4",
     "static/media/image5.png": "/static/media/image5.fc833df174587bc0c5ac.png",
     "static/media/image4.jpg": "/static/media/image4.01ca11a52cde86a26c02.jpg",
@@ -9,6 +9,8 @@
     "static/media/file.jpg": "/static/media/file.78b7baa548cb2d9dd8bc.jpg",
     "static/media/Adithyan.png": "/static/media/Adithyan.241aa862a6786ea2c227.png",
     "static/media/pattern.jpeg": "/static/media/pattern.61381d7742da93178a02.jpeg",
+    "static/media/testimage2.jpg": "/static/media/testimage2.bc12f5b642059e118bab.jpg",
+    "static/media/testimage1.jpg": "/static/media/testimage1.0dfa155260d35f62e27a.jpg",
     "static/media/test passing student.jpg": "/static/media/test passing student.9ae1af7a437166b6f606.jpg",
     "static/media/Carimage.jpg": "/static/media/Carimage.74ca5ed4f5c3818d704d.jpg",
     "static/media/groundImage.jpg": "/static/media/groundImage.c3e2810b7d0458a056a5.jpg",
@@ -26,10 +28,10 @@
     "static/media/play_store.png": "/static/media/play_store.1be3feade6ae12c67801.png",
     "index.html": "/index.html",
     "main.fa60cb3b.css.map": "/static/css/main.fa60cb3b.css.map",
-    "main.71bb9179.js.map": "/static/js/main.71bb9179.js.map"
+    "main.d43f36b4.js.map": "/static/js/main.d43f36b4.js.map"
   },
   "entrypoints": [
     "static/css/main.fa60cb3b.css",
-    "static/js/main.71bb9179.js"
+    "static/js/main.d43f36b4.js"
   ]
 }
